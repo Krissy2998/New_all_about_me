@@ -1,0 +1,9 @@
+
+label,
+input,
+button {
+    border:1px solid black;
+    display: inline;
+    margin: 6rem 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+};
