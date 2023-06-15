@@ -1,3 +1,4 @@
+*{/* border: 1px solid black; */};
 
 label,
 input,
@@ -7,3 +8,19 @@ button {
     margin: 6rem 2rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 };
+
+section{
+border: 15px salmon;
+width: 80%;
+margin: 5rem;
+height: 40rem;
+position: static;
+}
+
+article{
+border: medium solid green;
+width: 80%;
+margin:1 rem;
+left: 100px;
+position: relative;
+}
